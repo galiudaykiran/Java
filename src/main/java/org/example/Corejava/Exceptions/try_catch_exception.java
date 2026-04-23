@@ -1,0 +1,21 @@
+package org.example.Corejava.Exceptions;
+
+public class try_catch_exception {
+    public static void main(String[] args){
+
+        int a = 10;
+        int b = 0;
+        try{
+            int c = a/b;
+            System.out.println(c);
+        }
+        catch(Exception e){
+            System.out.println("Cannot divide by zero");
+        }
+        finally{
+            System.out.println(" finally blocks always prints");
+        }
+
+
+    }
+}
