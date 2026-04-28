@@ -1,6 +1,5 @@
-package org.example.DSA.Arrays;
+package org.example.DSA.Arrays.Subarray;
 
-import java.net.Socket;
 import java.util.Scanner;
 
 public class Find_First_NegativeValue_Using_SlidingWindow {

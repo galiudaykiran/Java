@@ -1,4 +1,4 @@
-package org.example.DSA.Arrays;
+package org.example.DSA.Arrays.Subarray;
 
 import java.util.Scanner;
 
