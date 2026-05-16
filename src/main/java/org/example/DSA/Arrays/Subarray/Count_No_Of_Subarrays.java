@@ -2,6 +2,17 @@ package org.example.DSA.Arrays.Subarray;
 
 import java.util.Scanner;
 
+//[1,2,3]
+
+// subarrays
+//[1]
+//[1,2]
+//[1,2,3]
+//[2]
+//[2,3]
+//[3]
+//total = 6
+
 public class Count_No_Of_Subarrays {
 
     static void main() {

@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Average_of_array {
     public static void main(String[] args){
+
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the size and elements for the array ");
         int n = sc.nextInt();

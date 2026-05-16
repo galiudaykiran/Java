@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 // Binary serach will only applies  for the sorted elemenst
 // O(logn)
+
 public class Binary_search {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
