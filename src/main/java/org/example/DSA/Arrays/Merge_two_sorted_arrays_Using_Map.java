@@ -48,9 +48,11 @@ public class Merge_two_sorted_arrays_Using_Map {
 
         for (int key : map.keySet()){
             int freq = map.get(key);
-            while (freq >0){
+            while (freq-- >0){
                 System.out.print(key+" ");
             }
         }
+
+
     }
 }

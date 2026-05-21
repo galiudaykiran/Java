@@ -2,6 +2,12 @@ package org.example.DSA.Arrays.Subarray;
 
 import java.util.Scanner;
 
+//[1,2,3,4,5]
+// k = 3
+// Iteration 1: 3
+// Iteration 2: 4
+// Iteration 3: 5
+
 public class Maximum_Element_in_Every_Window_of_Size_K {
     static void main() {
         Scanner scanner = new Scanner(System.in);

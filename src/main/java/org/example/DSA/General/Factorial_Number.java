@@ -12,10 +12,9 @@ public class Factorial_Number {
         int n = scanner.nextInt();
 
         int prod = 1;
-        while (n>0){
+        for(int i = 1;i<=n;i++) {
 
-            prod = prod*n;
-            n--;
+            prod = prod * i;
         }
 
         System.out.println("Factorial : "+prod);

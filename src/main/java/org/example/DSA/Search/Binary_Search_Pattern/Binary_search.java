@@ -1,4 +1,4 @@
-package org.example.DSA.Search;
+package org.example.DSA.Search.Binary_Search_Pattern;
 
 import java.util.Scanner;
 

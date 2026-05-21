@@ -1,0 +1,16 @@
+
+             contibution - ele occuernce contribute
+
+             for ele at index i    (ex : sum of all subarrays)
+
+                 |-------------|---------------|
+                 0              i               n-1
+                 <-------------> <-------------->
+                 a,b
+                 0,i = b-a+1     i,n-1 = n-1-i+1
+                     = i-0+1            =n-i
+                     = i+1
+         formula:         total contribution = arr[i]*(i+1)*(n-i)
+
+ Instead of calculating the answer for every subarray/subsequence separately,
+ we calculate how much each element contributes to the final answer.
