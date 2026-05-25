@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 //   output :     9
 
-public class Max_Sum_Subarray_By_K_SlidingWindow {
+public class Max_Subarray_By_K_SlidingWindow {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

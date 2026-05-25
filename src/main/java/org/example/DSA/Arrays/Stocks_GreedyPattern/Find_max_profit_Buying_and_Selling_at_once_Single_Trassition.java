@@ -3,12 +3,12 @@ package org.example.DSA.Arrays.Stocks_GreedyPattern;
 import java.util.Scanner;
 
 //You are given stock prices for different days.
-//
+
 //Find the maximum profit by:
-//
+
 //Buying the stock once
 //Selling the stock once
-//
+
 //You must buy before selling.
 
 
